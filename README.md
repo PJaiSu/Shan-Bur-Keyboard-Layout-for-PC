@@ -11,3 +11,4 @@
 ![preview my website light mode](/Keyboard%20Layout%20JPG/NamKhone.jpg)
 ![preview my website light mode](/Keyboard%20Layout%20JPG/Tai%20Le.jpg)
 ![preview my website light mode](/Keyboard%20Layout%20JPG/Pyidaungsu.jpg)
+![preview my website light mode](/Keyboard%20Layout%20JPG/Pāli.jpg)
