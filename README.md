@@ -8,4 +8,5 @@
 - [ၶဝ်ႈတူၺ်းဝႅပ်ႉသၢႆႉ PJaiSu](https://pjaisu.github.io)
 
 
-![preview my website light mode](/NamKhone.jpg)
+![preview my website light mode](/Keyboard%20Layout%20JPG/SIIT.jpg)
+Keyboard%20Layout%20JPG
