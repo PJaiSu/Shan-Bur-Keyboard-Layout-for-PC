@@ -7,7 +7,7 @@
 - [လၢႆးသႂ်ႉလွၵ်းမိုဝ်းတႆး တႃႇၶွမ်း Windows-11](https://youtu.be/GYVSket37Cw)
 - [ၶဝ်ႈတူၺ်းဝႅပ်ႉသၢႆႉ PJaiSu](https://pjaisu.github.io)
 
-![လွၵ်းမိုဝ်း SIIT](Keyboard-Layout-JPG/SIIT.jpg)
+![လွၵ်းမိုဝ်း SIIT](/Keyboard Layout JPG/SIIT.jpg)
 
 ![preview my website dark mode](/preview-d.png)
 
